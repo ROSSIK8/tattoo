@@ -1,0 +1,13 @@
+.wraper {
+  display: flex;
+  flex-direction: column;
+  min-width: 320px;
+  height: 100%;
+  position: relative;
+}
+
+.container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}

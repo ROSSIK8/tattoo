@@ -1,0 +1,24 @@
+{
+  "name": "tattoo",
+  "version": "1.0.0",
+  "description": "My project 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./public/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ROSSIK8/tattoo.git"
+  },
+  "author": "Ayurov Sanzhay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ROSSIK8/tattoo/issues"
+  },
+  "homepage": "https://github.com/ROSSIK8/tattoo#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
